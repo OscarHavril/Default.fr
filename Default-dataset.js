@@ -3,7 +3,7 @@ name:'Default dataset',
 author:'Orteil',
 desc:'Le pack de données par défaut de Legacy. Traduit par OscarHavril',
 engineVersion:1,
-manifest:0,
+manifest:'ModManifest.js',
 func:function()
 {
 	/*
